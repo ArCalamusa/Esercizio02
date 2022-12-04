@@ -7,7 +7,7 @@ body {
 
 #logo {
     width: 200px;
-    margin: 1rem 0; 
+    margin: 1rem 0;
     /* REM sta per “root”, radice, e la sua dimensione dipende dall'elemento radice che nel documento è l'elemento HTML */
 }
 
@@ -20,13 +20,7 @@ h1 {
     text-align: left;
     margin: auto;
 }
-.content img {
-    width: 100%;
-    border-radius: 10px;
-    -webkit-box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
-    -moz-box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
-    box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
-}
+
 #author {
     display: block;
     color: rgba(0, 0, 0, 0.4);
